@@ -1,5 +1,6 @@
-### Hi there 🍝
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axkirillov&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/axkirillov/github-readme-stats)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Hello%20there%20%F0%9F%8D%9D&lineCount=1&theme=catppuccin_macchiato&line1=php,php,5ed3f3;go,go,5ed3f3;lua,lua,5ed3f3;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Hello%20there%20%F0%9F%8D%9D&lineCount=1&theme=catppuccin_macchiato&line1=php,php,5ed3f3;go,go,5ed3f3;lua,lua,5ed3f3;)
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=axkirillov&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/axkirillov/github-readme-stats)
 <!--
 **axkirillov/axkirillov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
