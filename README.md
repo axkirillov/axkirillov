@@ -1,6 +1,6 @@
 ### Hello there! 🍝
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axkirillov)](https://github.com/anuraghazra/github-readme-stats)
 <div display="flex">
 <code><a href="https://neovim.io/" title="Neovim" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" /></a></code>
 <code><a href="https://go.dev/" title="Go" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" /></a></code>
